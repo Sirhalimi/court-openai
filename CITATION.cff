@@ -3,7 +3,7 @@ message: "If you use this derivative project, credit Alex Chen's original court-
 title: "Court — OpenAI Edition"
 type: software
 license: MIT
-repository-code: "https://github.com/YOUR_USERNAME/court-openai"
+repository-code: "https://github.com/Sirhalimi/court-openai"
 references:
   - type: software
     title: "The court skill"
