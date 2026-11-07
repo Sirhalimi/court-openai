@@ -114,7 +114,7 @@ The Python script manages files and deterministic counting. **It does not implem
 python3 -m unittest discover -s tests -v
 ```
 
-CI tests run on pushes and pull requests. Replace `Sirhalimi` with your GitHub username before publishing. Do **not** commit any `.court/` data containing private proposals or secrets.
+CI tests run on pushes and pull requests. Do **not** commit any `.court/` data containing private proposals or secrets.
 
 ## Limits and safety
 
